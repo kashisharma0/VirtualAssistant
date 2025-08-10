@@ -1,10 +1,6 @@
 # VirtualAssistant
 A simple personal virtual assistant 
 
-# Virtual Assistant Project
-
-A Python-based voice assistant using ElevenLabs conversational AI API.
-
 ## Features
 
 - Conversational AI powered by ElevenLabs
